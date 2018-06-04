@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Free-Running",
+    "author": "will mitchell & jason nanna",
+    "license": "GPLv3",
+    "pluginUrl": "",
+    "authorUrl": "",
+    "authorEmail": "",
+    "manualUrl": "",
+    "sourceUrl": "",
+    "latestVersion": 0.9,
+    "status": "available"
+  },
+  {
+    "name": "PLL",
+    "author": "will mitchell & jason nanna",
+    "license": "GPLv3",
+    "pluginUrl": "",
+    "authorUrl": "",
+    "authorEmail": "",
+    "manualUrl": "",
+    "sourceUrl": "",
+    "latestVersion": 0.9,
+    "status": "available"
+  },
+  {
+    "name": "Gate Sequencer",
+    "author": "will mitchell",
+    "license": "GPLv3",
+    "pluginUrl": "",
+    "authorUrl": "",
+    "authorEmail": "",
+    "manualUrl": "",
+    "sourceUrl": "",
+    "latestVersion": 0.5,
+    "status": "available"
+  },
+  {
+    "name": "OSC1",
+    "author": "will mitchell & jason nanna",
+    "license": "GPLv3",
+    "pluginUrl": "",
+    "authorUrl": "",
+    "authorEmail": "",
+    "manualUrl": "",
+    "sourceUrl": "",
+    "latestVersion": 0.9,
+    "status": "available"
+  },
+  {
+    "name": "SUB_OSC",
+    "author": "will mitchell & jason nanna",
+    "license": "GPLv3",
+    "pluginUrl": "",
+    "authorUrl": "",
+    "authorEmail": "",
+    "manualUrl": "",
+    "sourceUrl": "",
+    "latestVersion": 0.9,
+    "status": "available"
+  }
+]
