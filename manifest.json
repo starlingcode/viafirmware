@@ -8,7 +8,7 @@
     "authorEmail": "",
     "manualUrl": "",
     "sourceUrl": "",
-    "latestVersion": 0.9,
+    "latestVersion": "0.9",
     "status": "available"
   },
   {
@@ -20,7 +20,7 @@
     "authorEmail": "",
     "manualUrl": "",
     "sourceUrl": "",
-    "latestVersion": 0.9,
+    "latestVersion": "0.9",
     "status": "available"
   },
   {
@@ -32,7 +32,7 @@
     "authorEmail": "",
     "manualUrl": "",
     "sourceUrl": "",
-    "latestVersion": 0.5,
+    "latestVersion": "0.5",
     "status": "available"
   },
   {
@@ -44,7 +44,7 @@
     "authorEmail": "",
     "manualUrl": "",
     "sourceUrl": "",
-    "latestVersion": 0.9,
+    "latestVersion": "0.9",
     "status": "available"
   },
   {
@@ -56,7 +56,7 @@
     "authorEmail": "",
     "manualUrl": "",
     "sourceUrl": "",
-    "latestVersion": 0.9,
+    "latestVersion": "0.9",
     "status": "available"
   }
 ]
