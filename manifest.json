@@ -1,6 +1,7 @@
 [
   {
     "name": "Free-Running",
+    "token": "freerunning",
     "author": "will mitchell & jason nanna",
     "license": "GPLv3",
     "pluginUrl": "",
@@ -14,6 +15,7 @@
   },
   {
     "name": "Sync",
+    "token": "sync",
     "author": "will mitchell & jason nanna",
     "license": "GPLv3",
     "pluginUrl": "",
@@ -27,6 +29,7 @@
   },
   {
     "name": "trigseq",
+    "token": "trigseq",
     "author": "will mitchell",
     "license": "GPLv3",
     "pluginUrl": "",
@@ -40,6 +43,7 @@
   },
   {
     "name": "OSC1",
+    "token": "osc1",
     "author": "will mitchell & jason nanna",
     "license": "GPLv3",
     "pluginUrl": "",
@@ -53,6 +57,7 @@
   },
   {
     "name": "SUB_OSC",
+    "token": "subosc",
     "author": "will mitchell & jason nanna",
     "license": "GPLv3",
     "pluginUrl": "",
