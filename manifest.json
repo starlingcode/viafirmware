@@ -9,7 +9,8 @@
     "manualUrl": "http://viabetatesters.slack.com",
     "sourceUrl": "https://github.com/liquidcitymotors/stm32/tree/master/free_running",
     "latestVersion": "0.9",
-    "status": "available"
+    "status": "available",
+    "description": "Stock experimental firmware for VIA.  Implements the broadest combination of mode parameters for high configurability."
   },
   {
     "name": "Sync",
@@ -21,7 +22,8 @@
     "manualUrl": "http://viabetatesters.slack.com",
     "sourceUrl": "https://github.com/liquidcitymotors/stm32/tree/master/sync",
     "latestVersion": "0.9",
-    "status": "available"
+    "status": "available",
+    "description": "Generates output waveform at fractional rates of input clock, specified by scanning a 2d matrix of ratios"
   },
   {
     "name": "trigseq",
@@ -33,7 +35,8 @@
     "manualUrl": "",
     "sourceUrl": "https://github.com/liquidcitymotors/stm32/tree/master/trigseq",
     "latestVersion": "0.5",
-    "status": "available"
+    "status": "available",
+    "description": "Trig input steps through a morphable logic sequence which is applied as gates to the analog A and B inputs"
   },
   {
     "name": "OSC1",
@@ -45,7 +48,8 @@
     "manualUrl": "",
     "sourceUrl": "https://github.com/liquidcitymotors/stm32/tree/master/osc1",
     "latestVersion": "0.9",
-    "status": "available"
+    "status": "available",
+    "description": "Wavetable oscillator with through-zero FM, phase modulation, CV control over morph or skew, and configurable sync behavior"
   },
   {
     "name": "SUB_OSC",
@@ -57,6 +61,7 @@
     "manualUrl": "",
     "sourceUrl": "",
     "latestVersion": "0.9",
-    "status": "available"
+    "status": "unavailable",
+    "description": "Just a concept right now"
   }
 ]
