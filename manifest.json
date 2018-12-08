@@ -1,6 +1,6 @@
 [
   {
-    "name": "Meta",
+    "name": "META",
     "token": "meta",
     "author": "Starling",
     "license": "MIT",
@@ -15,7 +15,7 @@
     "optionByte": "1"
   },
   {
-    "name": "Sync",
+    "name": "SYNC",
     "token": "sync",
     "author": "Starling",
     "license": "MIT",
@@ -30,7 +30,7 @@
     "optionByte": "2"
   },
   {
-    "name": "Scanner",
+    "name": "SCANNER",
     "token": "scanner",
     "author": "Starling",
     "license": "MIT",
@@ -45,7 +45,7 @@
     "optionByte": "3"
   },
   {
-    "name": "Gateseq",
+    "name": "GATESEQ",
     "token": "gateseq",
     "author": "Starling",
     "license": "MIT",
