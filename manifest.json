@@ -58,7 +58,7 @@
     "status": "available",
     "description": "Create necklaces of polyrhythms with a pair of interwoven euclidean rhythms. CV control and a unique suite of IO allow you to derive complex rhythmic patterns or augment other sequencers and modulation sources. The clock input frequency can be pushed into the audio range to create subharmonics of a square wave.",
     "optionByte": "4"
-  }
+  },
   {
     "name": "CALIBRATION",
     "token": "calibration",
