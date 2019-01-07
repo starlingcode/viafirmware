@@ -59,4 +59,19 @@
     "description": "Create necklaces of polyrhythms with a pair of interwoven euclidean rhythms. CV control and a unique suite of IO allow you to derive complex rhythmic patterns or augment other sequencers and modulation sources. The clock input frequency can be pushed into the audio range to create subharmonics of a square wave.",
     "optionByte": "4"
   }
+  {
+    "name": "CALIBRATION",
+    "token": "calibration",
+    "author": "Starling",
+    "license": "MIT",
+    "pluginUrl": "",
+    "authorUrl": "",
+    "authorEmail": "",
+    "manualUrl": "http://starling.space/via/diy/calibration",
+    "sourceUrl": "https://github.com/liquidcitymotors/via_hardware_executables",
+    "latestVersion": "0.5",
+    "status": "available",
+    "description": "Diagnostics, hardware trimming helpers, and converter calibration storage",
+    "optionByte": "0"
+  }
 ]
