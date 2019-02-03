@@ -9,10 +9,10 @@
     "authorEmail": "",
     "manualUrl": "http://starling.space/via/meta/documentation",
     "sourceUrl": "https://github.com/liquidcitymotors/via_hardware_executables",
-    "latestVersion": "0.9",
+    "latestVersion": 1,
     "status": "available",
     "description": "Encapsulate a set of fundamental synthesis building blocks. An audio oscillator, drum voice, VCA with envelope, or complex CV sequence is just a touch away. The time controls and CV destinations change to suit the selected frequency range, providing intuitive interaction across a wide range of functionality. ",
-    "optionByte": "1"
+    "optionByte": 1
   },
   {
     "name": "SYNC",
@@ -24,10 +24,10 @@
     "authorEmail": "",
     "manualUrl": "http://starling.space/via/sync/documentation",
     "sourceUrl": "https://github.com/liquidcitymotors/via_hardware_executables",
-    "latestVersion": "0.9",
+    "latestVersion": 1,
     "status": "available",
     "description": "Lock a complex, morphing waveform to the frequency and phase of a clock signal and surf through a grid of frequency ratios. An audio rate clock elicits just-intoned harmonies, overtones, and subharmonics, or a low frequency clock generates tempo-synced modulation signals. Logic outputs provide rhythmic patterns ideal for self playing patches with optional phase locking allowing for tightly wound drum sequencing.",
-    "optionByte": "2"
+    "optionByte": 2
   },
   {
     "name": "SCANNER",
@@ -39,10 +39,10 @@
     "authorEmail": "",
     "manualUrl": "http://starling.space/via/scanner/documentation",
     "sourceUrl": "https://github.com/liquidcitymotors/via_hardware_executables",
-    "latestVersion": "0.9",
+    "latestVersion": 1,
     "status": "available",
     "description": "Trace a path across a set of virtual terrains with two signals, with a third deforming the contour of those maps. The result is a powerful three-in, four-out waveshaper equally suited for adding complexity to CV or audio.",
-    "optionByte": "3"
+    "optionByte": 3
   },
   {
     "name": "GATESEQ",
@@ -54,10 +54,10 @@
     "authorEmail": "",
     "manualUrl": "http://starling.space/via/gateseq/documentation",
     "sourceUrl": "https://github.com/liquidcitymotors/via_hardware_executables",
-    "latestVersion": "0.9",
+    "latestVersion": 1,
     "status": "available",
     "description": "Create necklaces of polyrhythms with a pair of interwoven euclidean rhythms. CV control and a unique suite of IO allow you to derive complex rhythmic patterns or augment other sequencers and modulation sources. The clock input frequency can be pushed into the audio range to create subharmonics of a square wave.",
-    "optionByte": "4"
+    "optionByte": 4
   },
   {
     "name": "CALIBRATION",
@@ -69,9 +69,9 @@
     "authorEmail": "",
     "manualUrl": "http://starling.space/via/diy/calibration",
     "sourceUrl": "https://github.com/liquidcitymotors/via_hardware_executables",
-    "latestVersion": "0.5",
+    "latestVersion": 1,
     "status": "available",
     "description": "Diagnostics, hardware trimming helpers, and converter calibration storage",
-    "optionByte": "0"
+    "optionByte": 0
   }
 ]
