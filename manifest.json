@@ -69,9 +69,9 @@
     "authorEmail": "",
     "manualUrl": "http://starling.space/via/diy/calibration",
     "sourceUrl": "https://github.com/liquidcitymotors/via_hardware_executables",
-    "latestVersion": 1,
+    "latestVersion": 0,
     "status": "available",
     "description": "Diagnostics, hardware trimming helpers, and converter calibration storage",
-    "optionByte": 0
+    "optionByte": 254
   }
 ]
