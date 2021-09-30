@@ -9,7 +9,7 @@
     "authorEmail": "",
     "manualUrl": "http://starling.space/via/meta/documentation",
     "sourceUrl": "https://github.com/starlingcode/via_hardware_executables",
-    "latestVersion": 2,
+    "latestVersion": 3,
     "status": "available",
     "description": "Encapsulate a set of fundamental synthesis building blocks. An audio oscillator, drum voice, VCA with envelope, or complex CV sequence is just a touch away. The time controls and CV destinations change to suit the selected frequency range, providing intuitive interaction across a wide range of functionality. ",
     "optionByte": 1
@@ -54,7 +54,7 @@
     "authorEmail": "",
     "manualUrl": "http://starling.space/via/gateseq/documentation",
     "sourceUrl": "https://github.com/starlingcode/via_hardware_executables",
-    "latestVersion": 2,
+    "latestVersion": 4,
     "status": "available",
     "description": "Create necklaces of polyrhythms with a pair of interwoven euclidean rhythms. CV control and a unique suite of IO allow you to derive complex rhythmic patterns or augment other sequencers and modulation sources. The clock input frequency can be pushed into the audio range to create subharmonics of a square wave.",
     "optionByte": 4
@@ -69,7 +69,7 @@
     "authorEmail": "",
     "manualUrl": "http://starling.space/via/atsr/documentation",
     "sourceUrl": "https://github.com/starlingcode/via_hardware_executables",
-    "latestVersion": 2,
+    "latestVersion": 3,
     "status": "available",
     "description": "A versatile modulation generator and mixer that plays like a standard envelope generator.",
     "optionByte": 5
@@ -84,7 +84,7 @@
     "authorEmail": "",
     "manualUrl": "http://starling.space/via/osc3/documentation",
     "sourceUrl": "https://github.com/starlingcode/via_hardware_executables",
-    "latestVersion": 2,
+    "latestVersion": 4,
     "status": "available",
     "description": "A voltage controlled oscillator with unique musical control options",
     "optionByte": 6
@@ -99,7 +99,7 @@
     "authorEmail": "",
     "manualUrl": "http://starling.space/via/sync3/documentation",
     "sourceUrl": "https://github.com/starlingcode/via_hardware_executables",
-    "latestVersion": 2,
+    "latestVersion": 3,
     "status": "available",
     "description": "A trio of high performance ratio-based oscillators synced to a master clock input",
     "optionByte": 7
