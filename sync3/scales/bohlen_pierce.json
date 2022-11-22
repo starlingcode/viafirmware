@@ -1,1 +1,6 @@
-{"seed_ratios": [[1, 1], [9, 7], [7, 5], [5, 3], [9, 5], [15, 7], [7, 3], [25, 9]], "fill_method": "tritave", "title": "Default Bohlen Pierce"}
+{
+	"seed_ratios": [[1, 1], [9, 7], [7, 5], [5, 3], [9, 5], [15, 7], [7, 3], [25, 9]], 
+	"fill_method": "tritave", 
+	"title": "Default Mode 8",
+	"description": "All numerators and denominators are odd, the scale is based on tritaves (pitch times 3), works great with triangle and square waves, instant spooky vibes."
+}
