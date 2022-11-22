@@ -1,4 +1,5 @@
 {
 	"data": ["impevens", "additive_pairs", "linwavefold_257", "skipSaw", "new_perlin", "csound_formants", "vox", "trains", "gammaAsym", "sharpLinSym", "circular_257", "quintic_outinAsym", "moving_lump", "fixed_lump", "compressor", "fake_adsr", "new_waves", "euc_odd_sharp", "newest_bounce", "rubberband", "mountains", "half_sines", "block_test", "newest_steps", "drum"],
-	"title": "Default"
+	"title": "Default",
+	"description": "The original wavetable set. Options are geared to suit the frequency ranges."
 }

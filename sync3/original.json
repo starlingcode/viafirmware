@@ -1,4 +1,5 @@
 {
 	"data": ["simple_rhythms", "integers", "perfect", "circle_fifths", "fourths_fifths", "minor_arp", "even_odds", "bohlen_pierce"],
-	"title": "Default"
+	"title": "Default",
+	"description": "The original scale set. A variety pack of options including traditional rhythmic values, open intervals, equal tempered approximations, and some more exotic microtonalities."
 }

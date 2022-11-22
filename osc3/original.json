@@ -1,4 +1,5 @@
 {
 	"data": ["og_semitone", "og_major", "og_minor"],
-	"title": "Default"
+	"title": "Default",
+	"description": "The original quantization set. Semitone, diatonic major, and diatonic minor options. Chords are the same for all modes."
 }
