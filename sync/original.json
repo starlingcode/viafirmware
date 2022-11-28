@@ -1,5 +1,5 @@
 {
-	"data": ["additive_evens", "new_waves", "newest_bounce", "circular_257", "impevens", "additive_tri_to_pulse", "new_perlin", "csound_formants", "additive_pairs", "moogSquare", "test_fm", "trains_slim", "sharpExpoSymSlim", "gammaAsymSlim", "rhythm_steps", "block_test", "triOdd", "sinwavefold_257", "euc_odd_sharp", "skipSaw"],
+	"slug_list": ["additive_evens", "new_waves", "newest_bounce", "circular_257", "impevens", "additive_tri_to_pulse", "new_perlin", "csound_formants", "additive_pairs", "moogSquare", "test_fm", "trains_slim", "sharpExpoSymSlim", "gammaAsymSlim", "rhythm_steps", "block_test", "triOdd", "sinwavefold_257", "euc_odd_sharp", "skipSaw"],
 	"title": "Default",
 	"description": "The original table set. Options are generally geared to suit the ratio sets in each group."
 }

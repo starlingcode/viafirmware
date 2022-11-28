@@ -1,5 +1,5 @@
 {
-	"data": ["sequencer1banknoclock", "sequencer1banktriplet", "sequencer1bankshuffle", "sequencer1bankmultiplier", "sequencer2bank1", "sequencer2bank2", "sequencer2bank3", "sequencer2bank4"],
+	"slug_list": ["sequencer1banknoclock", "sequencer1banktriplet", "sequencer1bankshuffle", "sequencer1bankmultiplier", "sequencer2bank1", "sequencer2bank2", "sequencer2bank3", "sequencer2bank4"],
 	"title": "Default",
 	"description": "The original pattern set. Sequencer I options are selected to suit the various modes while sequencer II has a variety of pattern lengths."
 }
