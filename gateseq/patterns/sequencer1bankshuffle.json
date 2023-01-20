@@ -1,4 +1,5 @@
 {
 	"data":[["0","32"], ["3","32"], ["5","32"], ["7","32"], ["9","32"], ["11","32"], ["13","32"], ["15","32"], ["17","32"], ["19","32"], ["21","32"], ["23","32"], ["25","32"], ["27","32"], ["29","32"], ["32","32"]],
-	"title": "Default I - 3"
+	"title": "Default I - 3",
+	"description":"Patterns are length 32 with odd number steps to complement the x2 clock multiplier"
 }

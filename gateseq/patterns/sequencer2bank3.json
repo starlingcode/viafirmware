@@ -1,4 +1,5 @@
 {
 	"data": [["0", "2"], ["2", "2"], ["2", "4"], ["3", "4"], ["2", "5"], ["3", "5"], ["2", "7"], ["3", "7"], ["2", "9"], ["3", "9"], ["2", "11"], ["3", "11"], ["2", "13"], ["3", "13"], ["2", "17"], ["3", "17"]],
-	"title": "Default II - 3"
+	"title": "Default II - 3",
+	"description":"Patterns with generally odd lengths and either 2 or 3 steps, stranger rhythms"
 }
