@@ -10,7 +10,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "moogNormalized": {
@@ -24,7 +25,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "moogSquare": {
@@ -39,7 +41,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Audio",
-            "SYNC Default"
+            "SYNC Default",
+            "Slope Pair"
         ]
     },
     "moog5Square": {
@@ -54,7 +57,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Audio",
-            "SCANNER Default"
+            "SCANNER Default",
+            "Slope Pair"
         ]
     },
     "moogInverted": {
@@ -68,7 +72,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "perlin": {
@@ -82,7 +87,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "sineFold": {
@@ -96,7 +102,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "bounce": {
@@ -110,7 +117,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "triodd": {
@@ -124,7 +132,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "triOdd": {
@@ -139,7 +148,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Audio",
-            "SYNC Default"
+            "SYNC Default",
+            "Cycle"
         ]
     },
     "triFudge": {
@@ -153,7 +163,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "moog1": {
@@ -167,7 +178,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "moog2": {
@@ -181,7 +193,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "sawBend": {
@@ -195,7 +208,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "sawBendLinAtk": {
@@ -209,7 +223,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "exciteBike": {
@@ -224,7 +239,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Sequence",
-            "SCANNER Default"
+            "SCANNER Default",
+            "Slope Pair"
         ]
     },
     "exciteBikeLinAtk": {
@@ -238,7 +254,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "rand": {
@@ -252,7 +269,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "gauss": {
@@ -266,7 +284,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "gauss_noconform": {
@@ -280,7 +299,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "gauss_low": {
@@ -294,7 +314,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "gauss_low_noconform": {
@@ -308,7 +329,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "algerian": {
@@ -322,7 +344,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Sequence"
+            "Sequence",
+            "Slope Pair"
         ]
     },
     "quartSym": {
@@ -336,7 +359,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "quartAsym": {
@@ -350,7 +374,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "superEllipse1Sym": {
@@ -364,7 +389,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "superEllipse1Asym": {
@@ -378,7 +404,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "gammaSym": {
@@ -392,7 +419,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "gammaAsym": {
@@ -407,7 +435,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Envelope",
-            "META Default"
+            "META Default",
+            "Slope Pair"
         ]
     },
     "sharpExpoSym": {
@@ -421,7 +450,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "sharpExpoAsym": {
@@ -435,7 +465,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "sharpLinSym": {
@@ -450,7 +481,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Envelope",
-            "META Default"
+            "META Default",
+            "Slope Pair"
         ]
     },
     "sharpLinAsym": {
@@ -464,7 +496,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "ascendingAdditiveClamp": {
@@ -478,7 +511,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "summingAdditiveClamp": {
@@ -492,7 +526,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "moogImpossibleTri": {
@@ -506,7 +541,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "steps": {
@@ -520,7 +556,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Sequence"
+            "Sequence",
+            "Slope Pair"
         ]
     },
     "steps5": {
@@ -534,7 +571,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Sequence"
+            "Sequence",
+            "Slope Pair"
         ]
     },
     "perlin130_1": {
@@ -548,7 +586,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "perlin130_2": {
@@ -562,7 +601,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "perlin130_3": {
@@ -576,7 +616,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "perlin130_4": {
@@ -590,7 +631,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "perlin130_5": {
@@ -604,7 +646,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "impBig": {
@@ -618,7 +661,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "impevens": {
@@ -634,7 +678,8 @@
         "tags": [
             "Audio",
             "META Default",
-            "SYNC Default"
+            "SYNC Default",
+            "Slope Pair"
         ]
     },
     "tenor48": {
@@ -648,7 +693,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "tenor16": {
@@ -662,7 +708,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "tenor12": {
@@ -676,7 +723,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "soprano48": {
@@ -690,7 +738,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "soprano16": {
@@ -704,7 +753,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "soprano12": {
@@ -718,7 +768,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "artificial_1": {
@@ -732,7 +783,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "filterbank_24": {
@@ -746,7 +798,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "filterbank_48": {
@@ -760,7 +813,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "filterbankTight_24": {
@@ -774,7 +828,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "filterbankTight_48": {
@@ -788,7 +843,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "skipSaw": {
@@ -805,7 +861,8 @@
             "Audio",
             "META Default",
             "SYNC Default",
-            "SCANNER Default"
+            "SCANNER Default",
+            "Slope Pair"
         ]
     },
     "hopSaw": {
@@ -819,7 +876,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "assortedEnvs": {
@@ -833,7 +891,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "lump3rdDegLinAtk": {
@@ -847,7 +906,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "lump2ndDegLinAtk": {
@@ -861,7 +921,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "doubleLump3rdDegLinAtk": {
@@ -875,7 +936,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "doubleLump2ndDegLinAtk": {
@@ -889,7 +951,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "threeBounceLinAtk": {
@@ -903,7 +966,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "threeSineFoldsLinAtk": {
@@ -917,7 +981,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "sawPWM": {
@@ -931,7 +996,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Scanner Slope"
         ]
     },
     "tenor257": {
@@ -945,7 +1011,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "linwavefold_257": {
@@ -960,7 +1027,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Audio",
-            "META Default"
+            "META Default",
+            "Slope Pair"
         ]
     },
     "sinwavefold_257": {
@@ -975,7 +1043,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Audio",
-            "SYNC Default"
+            "SYNC Default",
+            "Slope Pair"
         ]
     },
     "additive_tri_to_pulse": {
@@ -990,7 +1059,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Audio",
-            "SYNC Default"
+            "SYNC Default",
+            "Slope Pair"
         ]
     },
     "newBounce": {
@@ -1004,7 +1074,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Sequence"
+            "Sequence",
+            "Slope Pair"
         ]
     },
     "soprano257": {
@@ -1018,7 +1089,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "soprano257_rev": {
@@ -1032,7 +1104,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "testRMS": {
@@ -1046,7 +1119,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "gamma257": {
@@ -1060,7 +1134,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "bounce_257": {
@@ -1074,7 +1149,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Sequence"
+            "Sequence",
+            "Slope Pair"
         ]
     },
     "circular_257": {
@@ -1091,7 +1167,8 @@
             "Envelope",
             "META Default",
             "SYNC Default",
-            "SCANNER Default"
+            "SCANNER Default",
+            "Slope Pair"
         ]
     },
     "quintic_outin2quintic_inout257": {
@@ -1105,7 +1182,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "quintic_outinAsym": {
@@ -1120,7 +1198,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Envelope",
-            "META Default"
+            "META Default",
+            "Slope Pair"
         ]
     },
     "quintic_out2quintic_in257": {
@@ -1134,7 +1213,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "quintic_inout2quintic_outin257": {
@@ -1148,7 +1228,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "quintic_in2quintic_out257": {
@@ -1162,7 +1243,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "additive_linspread_257": {
@@ -1176,7 +1258,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "test_fm": {
@@ -1192,7 +1275,8 @@
         "tags": [
             "Audio",
             "SYNC Default",
-            "SCANNER Default"
+            "SCANNER Default",
+            "Slope Pair"
         ]
     },
     "trains": {
@@ -1208,7 +1292,8 @@
         "tags": [
             "Audio",
             "Sampled",
-            "META Default"
+            "META Default",
+            "Cycle"
         ]
     },
     "waterphone": {
@@ -1223,7 +1308,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Audio",
-            "Sampled"
+            "Sampled",
+            "Cycle"
         ]
     },
     "vox": {
@@ -1239,7 +1325,8 @@
         "tags": [
             "Audio",
             "Sampled",
-            "META Default"
+            "META Default",
+            "Cycle"
         ]
     },
     "csound_formants": {
@@ -1255,7 +1342,8 @@
         "tags": [
             "Audio",
             "META Default",
-            "SYNC Default"
+            "SYNC Default",
+            "Cycle"
         ]
     },
     "triangle_comb": {
@@ -1269,7 +1357,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "square_comb": {
@@ -1283,7 +1372,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "saw_comb": {
@@ -1297,7 +1387,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "saw_comb_filter": {
@@ -1311,7 +1402,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "tanh_res": {
@@ -1325,7 +1417,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Scanner Slope"
         ]
     },
     "hyperbolic_shapers": {
@@ -1340,7 +1433,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Audio",
-            "SCANNER Default"
+            "SCANNER Default",
+            "Scanner Slope"
         ]
     },
     "bitcrush": {
@@ -1355,7 +1449,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Audio",
-            "SCANNER Default"
+            "SCANNER Default",
+            "Scanner Slope"
         ]
     },
     "new_steps": {
@@ -1369,7 +1464,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Sequence"
+            "Sequence",
+            "Cycle"
         ]
     },
     "bessel": {
@@ -1384,7 +1480,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Audio",
-            "SCANNER Default"
+            "SCANNER Default",
+            "Scanner Slope"
         ]
     },
     "sin_phase_shift": {
@@ -1398,7 +1495,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "filter_test": {
@@ -1412,7 +1510,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Cycle"
         ]
     },
     "new_perlin": {
@@ -1428,7 +1527,8 @@
         "tags": [
             "Audio",
             "META Default",
-            "SYNC Default"
+            "SYNC Default",
+            "Slope Pair"
         ]
     },
     "hermite_odd": {
@@ -1442,7 +1542,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "spline_odd": {
@@ -1456,7 +1557,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "additive_pairs": {
@@ -1472,7 +1574,8 @@
         "tags": [
             "Audio",
             "META Default",
-            "SYNC Default"
+            "SYNC Default",
+            "Slope Pair"
         ]
     },
     "additive_alternate": {
@@ -1486,7 +1589,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "testRMS2": {
@@ -1500,7 +1604,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Envelope"
+            "Envelope",
+            "Slope Pair"
         ]
     },
     "euclidean_test": {
@@ -1514,7 +1619,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Sequence"
+            "Sequence",
+            "Slope Pair"
         ]
     },
     "block_test": {
@@ -1531,7 +1637,8 @@
             "Sequence",
             "META Default",
             "SYNC Default",
-            "SCANNER Default"
+            "SCANNER Default",
+            "Slope Pair"
         ]
     },
     "newest_steps": {
@@ -1546,7 +1653,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Sequence",
-            "META Default"
+            "META Default",
+            "Slope Pair"
         ]
     },
     "drum": {
@@ -1561,7 +1669,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Envelope",
-            "META Default"
+            "META Default",
+            "Slope Pair"
         ]
     },
     "compressor": {
@@ -1576,7 +1685,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Envelope",
-            "META Default"
+            "META Default",
+            "Slope Pair"
         ]
     },
     "fixed_lump": {
@@ -1591,7 +1701,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Envelope",
-            "META Default"
+            "META Default",
+            "Slope Pair"
         ]
     },
     "moving_lump": {
@@ -1606,7 +1717,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Envelope",
-            "META Default"
+            "META Default",
+            "Slope Pair"
         ]
     },
     "fake_adsr": {
@@ -1621,7 +1733,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Envelope",
-            "META Default"
+            "META Default",
+            "Slope Pair"
         ]
     },
     "half_sines": {
@@ -1637,7 +1750,8 @@
         "tags": [
             "Sequence",
             "META Default",
-            "SCANNER Default"
+            "SCANNER Default",
+            "Slope Pair"
         ]
     },
     "mountains": {
@@ -1653,7 +1767,8 @@
         "tags": [
             "Sequence",
             "META Default",
-            "SCANNER Default"
+            "SCANNER Default",
+            "Slope Pair"
         ]
     },
     "windowed_additive": {
@@ -1667,7 +1782,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Audio"
+            "Audio",
+            "Slope Pair"
         ]
     },
     "additive_evens": {
@@ -1682,7 +1798,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Audio",
-            "SYNC Default"
+            "SYNC Default",
+            "Slope Pair"
         ]
     },
     "new_waves_sym": {
@@ -1696,7 +1813,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Sequence"
+            "Sequence",
+            "Slope Pair"
         ]
     },
     "rubberband": {
@@ -1712,7 +1830,8 @@
         "tags": [
             "Sequence",
             "META Default",
-            "SCANNER Default"
+            "SCANNER Default",
+            "Slope Pair"
         ]
     },
     "newest_bounce": {
@@ -1729,7 +1848,8 @@
             "Sequence",
             "META Default",
             "SYNC Default",
-            "SCANNER Default"
+            "SCANNER Default",
+            "Slope Pair"
         ]
     },
     "euc_odd": {
@@ -1743,7 +1863,8 @@
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
         "tags": [
-            "Sequence"
+            "Sequence",
+            "Cycle"
         ]
     },
     "euc_odd_sharp": {
@@ -1759,7 +1880,8 @@
         "tags": [
             "Sequence",
             "META Default",
-            "SYNC Default"
+            "SYNC Default",
+            "Cycle"
         ]
     },
     "new_waves": {
@@ -1776,7 +1898,8 @@
             "Sequence",
             "META Default",
             "SYNC Default",
-            "SCANNER Default"
+            "SCANNER Default",
+            "Slope Pair"
         ]
     },
     "block_slope": {
@@ -1791,7 +1914,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Sequence",
-            "SCANNER Default"
+            "SCANNER Default",
+            "Cycle"
         ]
     },
     "staircase": {
@@ -1806,7 +1930,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Sequence",
-            "SCANNER Default"
+            "SCANNER Default",
+            "Scanner Slope"
         ]
     },
     "rhythm_steps": {
@@ -1821,7 +1946,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Sequence",
-            "SYNC Default"
+            "SYNC Default",
+            "Slope Pair"
         ]
     },
     "gammaAsymSlim": {
@@ -1836,7 +1962,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Envelope",
-            "SYNC Default"
+            "SYNC Default",
+            "Slope Pair"
         ]
     },
     "sharpExpoSymSlim": {
@@ -1851,7 +1978,8 @@
         "description": "Describe meeeeeeeee",
         "tags": [
             "Envelope",
-            "SYNC Default"
+            "SYNC Default",
+            "Slope Pair"
         ]
     },
     "trains_slim": {
@@ -1867,7 +1995,8 @@
         "tags": [
             "Audio",
             "Sampled",
-            "SYNC Default"
+            "SYNC Default",
+            "Cycle"
         ]
     }
 }
