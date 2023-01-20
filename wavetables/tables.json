@@ -9,7 +9,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "moogNormalized": {
         "title": "moogNormalized",
@@ -21,7 +23,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "moogSquare": {
         "title": "moogSquare",
@@ -33,7 +37,10 @@
         "sync_default_index": 9,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio",
+            "SYNC Default"
+        ]
     },
     "moog5Square": {
         "title": "moog5Square",
@@ -45,7 +52,10 @@
         "sync_default_index": -1,
         "scanner_default_index": 13,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio",
+            "SCANNER Default"
+        ]
     },
     "moogInverted": {
         "title": "moogInverted",
@@ -57,7 +67,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "perlin": {
         "title": "perlin",
@@ -69,7 +81,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "sineFold": {
         "title": "sineFold",
@@ -81,7 +95,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "bounce": {
         "title": "bounce",
@@ -93,7 +109,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "triodd": {
         "title": "triodd",
@@ -105,7 +123,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "triOdd": {
         "title": "triOdd",
@@ -117,7 +137,10 @@
         "sync_default_index": 16,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio",
+            "SYNC Default"
+        ]
     },
     "triFudge": {
         "title": "triFudge",
@@ -129,7 +152,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "moog1": {
         "title": "moog1",
@@ -141,7 +166,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "moog2": {
         "title": "moog2",
@@ -153,7 +180,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "sawBend": {
         "title": "sawBend",
@@ -165,7 +194,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "sawBendLinAtk": {
         "title": "sawBendLinAtk",
@@ -177,7 +208,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "exciteBike": {
         "title": "exciteBike",
@@ -189,7 +222,10 @@
         "sync_default_index": -1,
         "scanner_default_index": 11,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence",
+            "SCANNER Default"
+        ]
     },
     "exciteBikeLinAtk": {
         "title": "exciteBikeLinAtk",
@@ -201,7 +237,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "rand": {
         "title": "rand",
@@ -213,7 +251,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "gauss": {
         "title": "gauss",
@@ -225,7 +265,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "gauss_noconform": {
         "title": "gauss_noconform",
@@ -237,7 +279,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "gauss_low": {
         "title": "gauss_low",
@@ -249,7 +293,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "gauss_low_noconform": {
         "title": "gauss_low_noconform",
@@ -261,7 +307,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "algerian": {
         "title": "algerian",
@@ -273,7 +321,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence"
+        ]
     },
     "quartSym": {
         "title": "quartSym",
@@ -285,7 +335,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "quartAsym": {
         "title": "quartAsym",
@@ -297,7 +349,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "superEllipse1Sym": {
         "title": "superEllipse1Sym",
@@ -309,7 +363,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "superEllipse1Asym": {
         "title": "superEllipse1Asym",
@@ -321,7 +377,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "gammaSym": {
         "title": "gammaSym",
@@ -333,7 +391,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "gammaAsym": {
         "title": "gammaAsym",
@@ -345,7 +405,10 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope",
+            "META Default"
+        ]
     },
     "sharpExpoSym": {
         "title": "sharpExpoSym",
@@ -357,7 +420,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "sharpExpoAsym": {
         "title": "sharpExpoAsym",
@@ -369,7 +434,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "sharpLinSym": {
         "title": "sharpLinSym",
@@ -381,7 +448,10 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope",
+            "META Default"
+        ]
     },
     "sharpLinAsym": {
         "title": "sharpLinAsym",
@@ -393,7 +463,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "ascendingAdditiveClamp": {
         "title": "ascendingAdditiveClamp",
@@ -405,7 +477,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "summingAdditiveClamp": {
         "title": "summingAdditiveClamp",
@@ -417,7 +491,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "moogImpossibleTri": {
         "title": "moogImpossibleTri",
@@ -429,7 +505,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "steps": {
         "title": "steps",
@@ -441,7 +519,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence"
+        ]
     },
     "steps5": {
         "title": "steps5",
@@ -453,7 +533,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence"
+        ]
     },
     "perlin130_1": {
         "title": "perlin130_1",
@@ -465,7 +547,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "perlin130_2": {
         "title": "perlin130_2",
@@ -477,7 +561,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "perlin130_3": {
         "title": "perlin130_3",
@@ -489,7 +575,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "perlin130_4": {
         "title": "perlin130_4",
@@ -501,19 +589,23 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "perlin130_5": {
         "title": "perlin130_5",
         "slopes": [
             "perlin130_5_noskewAttackFamily",
-            "perlin130_5_noskewReleaseFamily"
+            "perlin130_5_noskewAttackFamily"
         ],
         "meta_default_index": -1,
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "impBig": {
         "title": "impBig",
@@ -525,7 +617,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "impevens": {
         "title": "impevens",
@@ -537,7 +631,11 @@
         "sync_default_index": 4,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio",
+            "META Default",
+            "SYNC Default"
+        ]
     },
     "tenor48": {
         "title": "tenor48",
@@ -549,7 +647,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "tenor16": {
         "title": "tenor16",
@@ -561,7 +661,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "tenor12": {
         "title": "tenor12",
@@ -573,7 +675,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "soprano48": {
         "title": "soprano48",
@@ -585,7 +689,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "soprano16": {
         "title": "soprano16",
@@ -597,7 +703,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "soprano12": {
         "title": "soprano12",
@@ -609,7 +717,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "artificial_1": {
         "title": "artificial_1",
@@ -621,7 +731,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "filterbank_24": {
         "title": "filterbank_24",
@@ -633,7 +745,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "filterbank_48": {
         "title": "filterbank_48",
@@ -645,7 +759,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "filterbankTight_24": {
         "title": "filterbankTight_24",
@@ -657,7 +773,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "filterbankTight_48": {
         "title": "filterbankTight_48",
@@ -669,7 +787,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "skipSaw": {
         "title": "skipSaw",
@@ -681,7 +801,12 @@
         "sync_default_index": 19,
         "scanner_default_index": 12,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio",
+            "META Default",
+            "SYNC Default",
+            "SCANNER Default"
+        ]
     },
     "hopSaw": {
         "title": "hopSaw",
@@ -693,7 +818,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "assortedEnvs": {
         "title": "assortedEnvs",
@@ -705,7 +832,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "lump3rdDegLinAtk": {
         "title": "lump3rdDegLinAtk",
@@ -717,7 +846,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "lump2ndDegLinAtk": {
         "title": "lump2ndDegLinAtk",
@@ -729,7 +860,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "doubleLump3rdDegLinAtk": {
         "title": "doubleLump3rdDegLinAtk",
@@ -741,7 +874,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "doubleLump2ndDegLinAtk": {
         "title": "doubleLump2ndDegLinAtk",
@@ -753,7 +888,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "threeBounceLinAtk": {
         "title": "threeBounceLinAtk",
@@ -765,7 +902,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "threeSineFoldsLinAtk": {
         "title": "threeSineFoldsLinAtk",
@@ -777,7 +916,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "sawPWM": {
         "title": "sawPWM",
@@ -789,7 +930,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "tenor257": {
         "title": "tenor257",
@@ -801,7 +944,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "linwavefold_257": {
         "title": "linwavefold_257",
@@ -813,7 +958,10 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio",
+            "META Default"
+        ]
     },
     "sinwavefold_257": {
         "title": "sinwavefold_257",
@@ -825,7 +973,10 @@
         "sync_default_index": 17,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio",
+            "SYNC Default"
+        ]
     },
     "additive_tri_to_pulse": {
         "title": "additive_tri_to_pulse",
@@ -837,7 +988,10 @@
         "sync_default_index": 5,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio",
+            "SYNC Default"
+        ]
     },
     "newBounce": {
         "title": "newBounce",
@@ -849,7 +1003,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence"
+        ]
     },
     "soprano257": {
         "title": "soprano257",
@@ -861,7 +1017,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "soprano257_rev": {
         "title": "soprano257_rev",
@@ -873,7 +1031,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "testRMS": {
         "title": "testRMS",
@@ -885,7 +1045,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "gamma257": {
         "title": "gamma257",
@@ -897,7 +1059,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "bounce_257": {
         "title": "bounce_257",
@@ -909,7 +1073,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence"
+        ]
     },
     "circular_257": {
         "title": "circular_257",
@@ -921,7 +1087,12 @@
         "sync_default_index": 3,
         "scanner_default_index": 8,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope",
+            "META Default",
+            "SYNC Default",
+            "SCANNER Default"
+        ]
     },
     "quintic_outin2quintic_inout257": {
         "title": "quintic_outin2quintic_inout257",
@@ -933,7 +1104,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "quintic_outinAsym": {
         "title": "quintic_outinAsym",
@@ -945,7 +1118,10 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope",
+            "META Default"
+        ]
     },
     "quintic_out2quintic_in257": {
         "title": "quintic_out2quintic_in257",
@@ -957,7 +1133,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "quintic_inout2quintic_outin257": {
         "title": "quintic_inout2quintic_outin257",
@@ -969,7 +1147,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "quintic_in2quintic_out257": {
         "title": "quintic_in2quintic_out257",
@@ -981,7 +1161,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "additive_linspread_257": {
         "title": "additive_linspread_257",
@@ -993,7 +1175,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "test_fm": {
         "title": "test_fm",
@@ -1005,7 +1189,11 @@
         "sync_default_index": 10,
         "scanner_default_index": 5,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio",
+            "SYNC Default",
+            "SCANNER Default"
+        ]
     },
     "trains": {
         "title": "trains",
@@ -1017,7 +1205,11 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio", "Sampled"]
+        "tags": [
+            "Audio",
+            "Sampled",
+            "META Default"
+        ]
     },
     "waterphone": {
         "title": "waterphone",
@@ -1029,7 +1221,10 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio", "Sampled"]
+        "tags": [
+            "Audio",
+            "Sampled"
+        ]
     },
     "vox": {
         "title": "vox",
@@ -1041,7 +1236,11 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio", "Sampled"]
+        "tags": [
+            "Audio",
+            "Sampled",
+            "META Default"
+        ]
     },
     "csound_formants": {
         "title": "csound_formants",
@@ -1053,7 +1252,11 @@
         "sync_default_index": 7,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio",
+            "META Default",
+            "SYNC Default"
+        ]
     },
     "triangle_comb": {
         "title": "triangle_comb",
@@ -1065,7 +1268,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "square_comb": {
         "title": "square_comb",
@@ -1077,7 +1282,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "saw_comb": {
         "title": "saw_comb",
@@ -1089,7 +1296,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "saw_comb_filter": {
         "title": "saw_comb_filter",
@@ -1101,7 +1310,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "tanh_res": {
         "title": "tanh_res",
@@ -1113,7 +1324,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "hyperbolic_shapers": {
         "title": "hyperbolic_shapers",
@@ -1125,7 +1338,10 @@
         "sync_default_index": -1,
         "scanner_default_index": 0,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio",
+            "SCANNER Default"
+        ]
     },
     "bitcrush": {
         "title": "bitcrush",
@@ -1137,7 +1353,10 @@
         "sync_default_index": -1,
         "scanner_default_index": 14,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio",
+            "SCANNER Default"
+        ]
     },
     "new_steps": {
         "title": "new_steps",
@@ -1149,7 +1368,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence"
+        ]
     },
     "bessel": {
         "title": "bessel",
@@ -1161,7 +1382,10 @@
         "sync_default_index": -1,
         "scanner_default_index": 1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio",
+            "SCANNER Default"
+        ]
     },
     "sin_phase_shift": {
         "title": "sin_phase_shift",
@@ -1173,7 +1397,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "filter_test": {
         "title": "filter_test",
@@ -1185,7 +1411,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "new_perlin": {
         "title": "new_perlin",
@@ -1197,7 +1425,11 @@
         "sync_default_index": 6,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio",
+            "META Default",
+            "SYNC Default"
+        ]
     },
     "hermite_odd": {
         "title": "hermite_odd",
@@ -1209,7 +1441,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "spline_odd": {
         "title": "spline_odd",
@@ -1221,7 +1455,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "additive_pairs": {
         "title": "additive_pairs",
@@ -1233,7 +1469,11 @@
         "sync_default_index": 8,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio",
+            "META Default",
+            "SYNC Default"
+        ]
     },
     "additive_alternate": {
         "title": "additive_alternate",
@@ -1245,7 +1485,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "testRMS2": {
         "title": "testRMS2",
@@ -1257,7 +1499,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope"
+        ]
     },
     "euclidean_test": {
         "title": "euclidean_test",
@@ -1269,7 +1513,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence"
+        ]
     },
     "block_test": {
         "title": "block_test",
@@ -1281,7 +1527,12 @@
         "sync_default_index": 15,
         "scanner_default_index": 15,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence",
+            "META Default",
+            "SYNC Default",
+            "SCANNER Default"
+        ]
     },
     "newest_steps": {
         "title": "newest_steps",
@@ -1293,7 +1544,10 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence",
+            "META Default"
+        ]
     },
     "drum": {
         "title": "drum",
@@ -1305,7 +1559,10 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope",
+            "META Default"
+        ]
     },
     "compressor": {
         "title": "compressor",
@@ -1317,7 +1574,10 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope",
+            "META Default"
+        ]
     },
     "fixed_lump": {
         "title": "fixed_lump",
@@ -1329,7 +1589,10 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope",
+            "META Default"
+        ]
     },
     "moving_lump": {
         "title": "moving_lump",
@@ -1341,7 +1604,10 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope",
+            "META Default"
+        ]
     },
     "fake_adsr": {
         "title": "fake_adsr",
@@ -1353,7 +1619,10 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope",
+            "META Default"
+        ]
     },
     "half_sines": {
         "title": "half_sines",
@@ -1365,7 +1634,11 @@
         "sync_default_index": -1,
         "scanner_default_index": 9,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence",
+            "META Default",
+            "SCANNER Default"
+        ]
     },
     "mountains": {
         "title": "mountains",
@@ -1377,7 +1650,11 @@
         "sync_default_index": -1,
         "scanner_default_index": 3,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence",
+            "META Default",
+            "SCANNER Default"
+        ]
     },
     "windowed_additive": {
         "title": "windowed_additive",
@@ -1389,7 +1666,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio"
+        ]
     },
     "additive_evens": {
         "title": "additive_evens",
@@ -1401,7 +1680,10 @@
         "sync_default_index": 0,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio"]
+        "tags": [
+            "Audio",
+            "SYNC Default"
+        ]
     },
     "new_waves_sym": {
         "title": "new_waves_sym",
@@ -1413,7 +1695,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence"
+        ]
     },
     "rubberband": {
         "title": "rubberband",
@@ -1425,7 +1709,11 @@
         "sync_default_index": -1,
         "scanner_default_index": 10,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence",
+            "META Default",
+            "SCANNER Default"
+        ]
     },
     "newest_bounce": {
         "title": "newest_bounce",
@@ -1437,7 +1725,12 @@
         "sync_default_index": 2,
         "scanner_default_index": 2,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence",
+            "META Default",
+            "SYNC Default",
+            "SCANNER Default"
+        ]
     },
     "euc_odd": {
         "title": "euc_odd",
@@ -1449,7 +1742,9 @@
         "sync_default_index": -1,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence"
+        ]
     },
     "euc_odd_sharp": {
         "title": "euc_odd_sharp",
@@ -1461,7 +1756,11 @@
         "sync_default_index": 18,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence",
+            "META Default",
+            "SYNC Default"
+        ]
     },
     "new_waves": {
         "title": "new_waves",
@@ -1473,7 +1772,12 @@
         "sync_default_index": 1,
         "scanner_default_index": 4,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence",
+            "META Default",
+            "SYNC Default",
+            "SCANNER Default"
+        ]
     },
     "block_slope": {
         "title": "block_slope",
@@ -1485,7 +1789,10 @@
         "sync_default_index": -1,
         "scanner_default_index": 7,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence",
+            "SCANNER Default"
+        ]
     },
     "staircase": {
         "title": "staircase",
@@ -1497,7 +1804,10 @@
         "sync_default_index": -1,
         "scanner_default_index": 6,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence",
+            "SCANNER Default"
+        ]
     },
     "rhythm_steps": {
         "title": "rhythm_steps",
@@ -1509,7 +1819,10 @@
         "sync_default_index": 14,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Sequence"]
+        "tags": [
+            "Sequence",
+            "SYNC Default"
+        ]
     },
     "gammaAsymSlim": {
         "title": "gammaAsymSlim",
@@ -1521,7 +1834,10 @@
         "sync_default_index": 13,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope",
+            "SYNC Default"
+        ]
     },
     "sharpExpoSymSlim": {
         "title": "sharpExpoSymSlim",
@@ -1533,7 +1849,10 @@
         "sync_default_index": 12,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Envelope"]
+        "tags": [
+            "Envelope",
+            "SYNC Default"
+        ]
     },
     "trains_slim": {
         "title": "Trains",
@@ -1545,6 +1864,10 @@
         "sync_default_index": 11,
         "scanner_default_index": -1,
         "description": "Describe meeeeeeeee",
-        "tags": ["Audio", "Sampled"]
+        "tags": [
+            "Audio",
+            "Sampled",
+            "SYNC Default"
+        ]
     }
 }
